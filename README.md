@@ -4,6 +4,7 @@
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frodesgom%2Freadme-template.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Frodesgom%2Freadme-template?ref=badge_shield)
 
 One to two paragraph statement about your product and what it does.
 
@@ -76,3 +77,7 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/yourname/yourproject/wiki
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frodesgom%2Freadme-template.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Frodesgom%2Freadme-template?ref=badge_large)
